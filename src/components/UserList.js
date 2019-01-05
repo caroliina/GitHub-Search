@@ -1,8 +1,8 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 
-import './Main.css'
-import './UserList.css'
+import './style/Main.css'
+import './style/UserList.css'
 
 class UserList extends React.Component {
 

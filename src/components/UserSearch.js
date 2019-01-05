@@ -3,8 +3,9 @@ import React from 'react'
 import UserList from './UserList'
 import UserPreview from './UserPreview'
 import Loader from './Loader'
-import './UserSearch.css'
-import './Main.css'
+
+import './style/Main.css'
+import './style/UserSearch.css'
 
 class UserSearch extends React.Component {
   constructor(props) {
