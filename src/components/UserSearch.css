@@ -1,0 +1,16 @@
+form {
+  height: 160px; }
+  form .loader {
+    padding: 20px 0; }
+  form input[type=text] {
+    height: 45px;
+    border: 0;
+    width: 400px;
+    margin-left: 1px;
+    box-shadow: -7px 10px 0 -7px #ebebeb, 0 10px 0 -7px #ebebeb;
+    -webkit-transition: box-shadow 0.3s;
+    transition: box-shadow 0.3s; }
+  form button:focus,
+  form input[type=text]:focus {
+    outline: none;
+    box-shadow: -7px 10px 0 -7px #4EA6EA, 0 10px 0 -7px #4EA6EA; }
