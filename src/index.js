@@ -18,4 +18,4 @@ const App = () => (<Router>
   </div>
 </Router>)
 
-ReactDOM.render(<App/>, root)
+ReactDOM.render(<App/>, document.getElementById('root'))
